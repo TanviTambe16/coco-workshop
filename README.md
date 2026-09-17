@@ -1,2 +1,1 @@
-# coco-workshop
-coco-workshop
+cortex -c DEMO
